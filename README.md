@@ -5,9 +5,11 @@
 
 Welcome to Door Runners: 3D, an exciting hypercasual mobile game developed using Unity.
 
-Door Runners: 3D offers fast-paced and addictive gameplay where you control a character running through a dynamic 3D environment. Swipe left or right to dodge obstacles and pass through doors marked with either a '+' or '*' sign to multiply your character count. But be careful, colliding with obstacles will result in losing characters. Reach the end of the path where staircases with increasing multipliers await. Build a tower of characters and reach for the sky to claim big rewards. Beware of the boss at the end of another path and engage in an epic battle!
-
-![Door Runners: 3D Gameplay](gameplay_screenshot.png)
+Door Runners: 3D offers fast-paced and addictive gameplay where you control a character running through a dynamic 3D environment. 
+Swipe left or right to dodge obstacles and pass through doors marked with either a '+' or '*' sign to multiply your character count. 
+But be careful, colliding with obstacles will result in losing characters. Reach the end of the path where staircases with increasing multipliers await. 
+Build a tower of characters and reach for the sky to claim big rewards. 
+Beware of the boss at the end of another path and engage in an epic battle!
 
 Watch the gameplay trailer on YouTube:
 <p> 
@@ -24,7 +26,7 @@ Watch the gameplay trailer on YouTube:
 ## How to Play
 
 - Swipe left or right to dodge obstacles.
-- Pass through doors marked with a '+' or '*' sign to multiply your character count.
+- Pass through doors marked with a '+' or 'x' sign to multiply your character count.
 - Reach the end of the path and stack characters on top of each other to build a tower.
 - Engage in a boss battle for big rewards.
 
